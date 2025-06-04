@@ -6,7 +6,6 @@ This project showcases a Raspberry Pi–powered autonomous robot capable of movi
 ##  Project Files
 - `main_autonomous.py` – Automates full robot operation: forward, pause, backward, shutdown with LCD feedback and sensor readings.
 - `main_user_controlled.py` – Adds user input (direction + light intensity) and includes safety features like real-time obstacle avoidance.
-- `ECOR1044_Final_Report.pdf` – Full technical write-up with hardware integration, challenges, and testing process.
 - `demo_images/` – Includes photos and demo media of the robot in action.
 
 ## ⚙ Features
